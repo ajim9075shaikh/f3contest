@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+h1,
+h3 {
+    color: white;
+    margin-left: 30px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    margin-left: 20px;
+}
+
+#btn2,
+#btn1 {
+    margin: 10px;
+}
+
+#btn3 {
+    background-color: black;
+    color: white;
+    margin: 10px;
+}
+
+#top,
+#bottom {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+
+#middle {
+
+    color: white;
+    margin-left: 30px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#error {
+    color: red;
+    display: none;
+}
